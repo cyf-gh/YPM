@@ -1,6 +1,6 @@
-# YPM (Yuji Protocol Message)
+# YPM (YiFan Protocol Message)
 
-YPM (Yuji Protocol Message) is a simple protocol structure, used for lightweight net or application message usage.
+YPM (YiFan Protocol Message) is a simple protocol structure, used for lightweight net or application message usage.
 
 ## Out-of-the-box
 
